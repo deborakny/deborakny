@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- Aprendendo Node.js
 - 📫 E-mail: debora.n_@hotmail.com
 - 😄 Pronouns: ela / dela
 
