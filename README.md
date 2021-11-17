@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🌱 Aprendendo VueJS e NuxtJS
 - 📫 E-mail: debora.n_@hotmail.com
 - 😄 Pronouns: ela / dela
 
