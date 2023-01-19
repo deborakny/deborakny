@@ -3,10 +3,10 @@
 - 📫 E-mail: debora.n_@hotmail.com
 - 😄 Pronouns: ela / dela
 
-<div align="left">
+<!-- <div align="left">
   <a href="https://github.com/deborakny">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deborakny&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-</div>
+</div> -->
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Deh-C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
